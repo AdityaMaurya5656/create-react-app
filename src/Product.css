@@ -1,5 +1,12 @@
 .Product {
 
-    border:2px solid black;
+    border:2px solid red;
     border-radius: 20px;
+    height:300px;
+    width:350px;
+    background-color:cornflowerblue;
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+    color: rgb(22, 80, 80);
+    
 }
